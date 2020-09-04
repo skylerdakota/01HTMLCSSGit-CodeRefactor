@@ -1,10 +1,10 @@
 # 01HTMLCSSGit-CodeRefactor
 
-[webpage](https://skylerdakota.github.io/01HTMLCSSGit-CodeRefactor/)
+[Horiseon Code Refractor](https://skylerdakota.github.io/01HTMLCSSGit-CodeRefactor/)
 
-![Webpage Screenshot](/desktop/repos/01HTMLCSSGit-CodeRefactor/assets/images/toppage.png)
-![Webpage Screenshot](/desktop/repos/01HTMLCSSGit-CodeRefactor/assets/images/midpage.png)
-![Webpage Screenshot](/desktop/repos/01HTMLCSSGit-CodeRefactor/assets/images/bttmpage.png)
+![Site Top](assets/images/toppage.png)
+![Site Mid](assets/images/midpage.png)
+![Site Bottom](assets/images/bttmpage.png)
 
 # 01 HTML CSS Git: Code Refactor
 
